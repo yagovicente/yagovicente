@@ -26,4 +26,4 @@ olá!
   
 </div>
   
-  ![Snake animation]()
+  ![Snake animation](https://github.com/yagovicente/yagovicente/blob/output/github-contribution-grid-snake.svg)
