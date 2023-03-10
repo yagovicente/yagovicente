@@ -1,5 +1,7 @@
-olá!
-<div align="center">
+**Olá! Me chamo Yago Vicete, venha conhecer meus projetos.**
+##
+
+<div>
   <a href="https://github.com/yagovicente">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagovicente&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagovicente&layout=compact&langs_count=16&theme=merko"/>
@@ -26,4 +28,4 @@ olá!
   
 </div>
   
-  ![Snake animation](https://github.com/yagovicente/yagovicente/blob/output/github-contribution-grid-snake.svg)
+
