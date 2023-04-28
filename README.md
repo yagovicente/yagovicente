@@ -34,6 +34,10 @@
 ![javaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117)&nbsp;
 
+
+![snake animation](https://github.com/yagovicente/yagovicente/blob/output/github-contribution-grid-snake.svg)
+
+
 <div align="center" style="display: inline_block"><br>
   <br><p align="center"><strong>Visitors Count</strong></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yagovicente}/count.svg" /></p>
@@ -42,4 +46,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&auto&height=120&section=footer" />
 
-![snake animation](https://github.com/yagovicente/yagovicente/blob/output/github-contribution-grid-snake.svg)
